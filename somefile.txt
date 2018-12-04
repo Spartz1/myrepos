@@ -1,0 +1,7 @@
+what is git?
+what is vcs?
+diff between git and github?
+Local reps vs remote reps?
+y do we need git?
+what is git branch?
+y git branch?
